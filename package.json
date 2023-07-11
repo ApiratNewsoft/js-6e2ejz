@@ -1,0 +1,8 @@
+{
+  "name": "js-atafxq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@line/liff": "^2.3.1"
+  }
+}
